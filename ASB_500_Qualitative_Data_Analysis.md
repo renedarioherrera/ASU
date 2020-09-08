@@ -380,4 +380,3 @@ In every culture are found a limited number of dynamic affirmations, called them
 - promote a three dimensional portrayal of the participant, from interviews, field notes, observations, research literature,
 - interviews generate transcript data suitable for transformation into one person reflections.
 - dialogue shows character interaction and interplay
--
