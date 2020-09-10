@@ -332,6 +332,71 @@ In every culture are found a limited number of dynamic affirmations, called them
 # Week 2: Describing Themes
 
 
+## Video Lecture
+
+
+- A very well designed codebook can take you very far.
+- the way you write about the themes is important as the analysis
+- ladder of analytical abstraction
+- summarize and package; repackage and aggregate; develop and test propositions to construct explanatory framework
+
+
+### levels of description
+
+
+- themes
+- cases
+- groups;
+- cultures; shared knowledge or perspectives
+-
+
+
+### characteristics of good description
+
+
+- range; one extreme to another
+- central tendency;
+- distribution;
+- details; important to ethnographer, verbatim quotes; what the detail really feels like
+- context; relevant social cultural political economic ecological details
+
+
+### strategic decisions
+
+
+- themes and context
+- cases and range, central tendency, distribution
+- cultures and range, central tendency, distribution, details, context
+
+### presentation
+
+
+#### general and particular
+
+
+- universal statements
+- cross cultural assertions
+- general statements about society or cultural group
+
+
+#### core and periphery
+
+
+- range
+- central tendency
+- distribution
+- context
+
+
+#### Style
+
+
+- direct quotes
+- paraphrases
+- exemplary cases
+- composites and vignettes
+
+
 ## Live Q & A 1 Sep 2020
 
 ### Syllabus
@@ -380,3 +445,24 @@ In every culture are found a limited number of dynamic affirmations, called them
 - promote a three dimensional portrayal of the participant, from interviews, field notes, observations, research literature,
 - interviews generate transcript data suitable for transformation into one person reflections.
 - dialogue shows character interaction and interplay
+
+
+# Week 3: Building and Applying Codebooks
+
+
+## video lecture
+
+
+### key terms
+
+
+- codes; short hand notations for themes
+- codebooks; organized lists and definitions of themes
+- coding; act of linking themes to chunks
+
+
+### Types of codes 
+
+
+- thematic; link themes with instances of data
+- structural codes; describe characteristics of the data
