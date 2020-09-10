@@ -461,8 +461,55 @@ In every culture are found a limited number of dynamic affirmations, called them
 - coding; act of linking themes to chunks
 
 
-### Types of codes 
+### Types of codes
 
 
 - thematic; link themes with instances of data
 - structural codes; describe characteristics of the data
+
+
+### other markup tools
+
+
+- memos; used to annotate text with running thoughts of analyst
+- hyperlinks; link one instance of data to another
+- tagging; indicate where themes occur in possibly overlapping text
+- value coding; assign value to fixed non overlapping segments
+
+
+### codebook development
+
+
+- approach can be deductive, inductive, or both
+- often but not always, organized hierarchically,
+- can be defined as inclusive or exclusive
+- code with a purpose;  bewar eof proliferation
+- keeping codebooks to a manageable size helps accuracy and reliability
+
+
+- code with your research question
+- ultimately about data reduction into manageable size; less is more
+- a grading rubric is an example of a codebook
+
+
+coding schemes
+
+
+- outline of cultural materials; gene shelley
+- kuraski; first order, second order,
+- handbook for team based qualitative research
+
+
+### mnemonic
+
+
+- short label
+- short and detailed description
+- inclusion and exclusion; features required?
+- typical and atypical examples
+
+
+### codebook definition structure
+
+
+- important to help with the final product
