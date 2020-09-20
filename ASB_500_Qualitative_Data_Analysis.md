@@ -450,6 +450,132 @@ In every culture are found a limited number of dynamic affirmations, called them
 # Week 3: Building and Applying Codebooks
 
 
+## Chapter 6 of Analyzing Qualitative
+
+
+### Three Kinds of Codes
+
+1. structural: describe things like features of the environment in which data are collected, features of ther espondent, features of the interview, etc
+2. thematic: show where the themes we've identified actually occur in text
+3. memos: field notes about codes and contain our running commentary as we read through text
+
+### Building codebooks
+
+
+#### 5 step for developing themes inductively
+
+
+1. reduce raw data
+2. identify themes
+3. compare themes
+4. create codes
+5. assess interrater reliability
+
+
+#### 3 step for developing themes deductively
+
+1. create a code
+2. review the data and revise the code
+3. assess interrater reliability
+
+
+### Using Existing Codes
+
+
+adapting from preexisting coding sources
+
+
+### applying theme codes to text
+
+3 meanings to the word code in English
+
+1. code names and places to protect our respondents' anonymity
+2. tag or index the text or to assign it values of a scale; themes as an index code or a tag
+3. theme as a value code, for example no pain, low pain, mid, high.
+
+
+### mechanics of marking text
+
+
+1. start any text analysis project with pencil and paper methods; writing notes in the margins, highlighting chunks of text with different colors, and cutting and sorting multiple copies of notes and transcripts
+2. do with a few pages or several interviews to get a feel of the data
+3. as you write down each code on a first pass through a text, circle or highlight the exact chunk of text to which it refers
+
+
+### using text analysis software
+
+
+- for simple projects a word processor is all that is needed
+
+
+### multiple coders
+
+
+- intercoder reliability is vital if you're going to do statistical analysis on your data
+
+
+### Training coders
+
+
+1. give all coders a written codebook to which they can refer during the actual marking of data
+2. after reviewing the codebook as a group, have coders independently code a set of real examples
+3. review their respones and bring the group together to discuss and resolve discrepancies
+4. update the codebook as coders come to agreements about the content of themes
+5. once coders start coding the bulk of the data, do random spot checks to keep coders alert and to find out if they are running into situations that you had not anticipated in designing the codebook
+6. if there are continued problems, repeat steps 3 & 4, if you make any changes, go back over previously coded m aterial to make sure it is all coded consistently
+
+
+### how many coders are enough?
+
+
+1. coders' experience / knowledge
+2. core / periphery dispersion of the theme. clear core is easy.
+3. level of inference required to see a theme. the more inference it takes the harder it is for two or more to agree that they see it in a text
+4. number of times that any given theme appears in the text. more rare and more important the more coders needed to look for it.
+5. consensus among coders about the presence of a theme
+
+
+### Trimming codes and coders
+
+
+reduce workload and cost by:
+
+
+1. lowering the number of codes
+2. reducing the amount of text to be coded
+3. using fewer coders
+
+
+### content of codebooks
+
+key to good coding is a good codebook
+
+1. mnemonic; explicit and in plain language
+2. emic and etic themes;
+3. short descriptions and detailed descriptions;
+4. list of inclusion and exclusion criteria;
+5. typical and atypical examples
+
+### describing themes
+
+provide an overview of the theme and core components.
+
+### finding typical segments of text
+
+
+use the pile sort method;
+begin by retrieving all instance of a theme, cutting out the quotes, and writing some identifier on the back;
+then sort them;
+
+
+1. first spread out quotes on large table all mixed up
+2. examine the quotes and identify those that seem to represent the core aspects of the theme then move it toward the middle of the table; once finished, core quotes at the center, peripheral out towards the edge
+3. refine. sort core quotes into two groups 1- most representative and 2-less representative. then express in words the characteristics that distinguish between quotes in the strong and week core. this identifies primary and secondary components
+4. sort periphery into groups based on similarity. make as many groups as necessary
+5. select typical quotes or exemplars. select a couple that seem to best represent the group
+6. with the quotes on the table sorted into core and periphery, turn each one over and examine who said it. this keeps you from using just one or two informants as the sources. if there is a pattern in the distribution you'll likely see it
+
+
 ## video lecture
 
 
@@ -513,3 +639,6 @@ coding schemes
 
 
 - important to help with the final product
+
+
+# Week 4
