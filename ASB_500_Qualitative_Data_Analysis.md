@@ -450,6 +450,57 @@ In every culture are found a limited number of dynamic affirmations, called them
 # Week 3: Building and Applying Codebooks
 
 
+# check in
+
+
+- https://anthroillustrated.com/
+- put questions in the chat
+
+
+# questions
+
+
+question 1: describing themes;
+
+
+- line by line is difficult and may not yield analytic categories as quickly
+- the techniques describing memoing are advanced
+
+
+question 2: problem
+
+
+- design a semi structured protocol
+- deductively determined
+- then go back and code elicited data (example about discipline)
+- not optimal because 1 - you put the idea into their head
+- and 2 - there is no variability
+- a semi structured protocol already frames the data
+- the big point is to describe and theorize variability
+- how then to use deductive or inductive codes to capture?
+- inductive, use their own words to form categories
+- deductive, put their words into predetermined existing categories
+- for us to deduce narratives from the inductive perspective, the researcher must be linguistically and culturally competent
+- aim for deductive variability; understand the data
+
+
+question 3: why do some researchers lack qualitative competence
+
+
+- quantitative analysis of qualitative data is limited in explaining the meaning of what people were saying
+- although it is accurate and reliable
+- in anthropology training, very often the training is to specified; and so the toolkit is too narrow to use effectively in a broad range of situations
+
+
+question 4: coding assignment week 2
+
+
+- theme tree;
+
+
+question 5: saldana reading
+
+
 ## Chapter 6 of Analyzing Qualitative
 
 
@@ -640,5 +691,209 @@ coding schemes
 
 - important to help with the final product
 
+ASU ASB 500 Module 1 Week 3:
+
+Building and applying codebooks video 3 working with multiple coders
+
+
+5 benefits
+
+
+- reliability: agreement among coders indicates which codes are instruments, apply the data in the same way
+- validity; defends trustworthiness of analysis, can defined in ways that are meaningful to others,
+- theme definition; clarify meaning and establish inclusion and exclusion criteria
+
+
+video 4: measuring intercoder reliability
+
+
+- percent agreement; cohen's kappa: measures agreement beyond chance
+- calculate with a coder by coder agreement matrix
+- kappa = (p1 - p2) / (1-p2)
+- report kappa calculation for each code in codebook,
+- report confidence intervals and standard error along with kappa statistic
+- kappa ranges from -1 to 1
+- preferred to see kappa >= .8
+- "kappa calculator" such as graphpad quick calcs
+
+
+- assessing intercoder reliability early is a strategy to identify problems with coder training or with conceptual clarity of codebook
+- later it demonstrates final agreement
+
+
+how many codes?
+
+- be aware of code creep
+- build codebooks for what you need
+- limit codes to what fits on a single page
+- 30-50 codes is usually about right
+
+
+how many levels?
+
+- maybe no more than 3, or 5
+
+
+- codebooks specify project level coding instructions
+- how to code, who to code, what to code, where to code
+
+
+summary
+
+- coding is heart and soul of text analysis
+- structured codebook is key to systematic analysis
+- using multiple coders improves validity and identifies core periphery structures
+
+
+text: MacQueen, Kathleen M., Eleanor McLellan, Kelly Kay, and Bobby Milstein. "Codebook development for team-based qualitative analysis." Cam Journal 10, no. 2 (1998): 31-36.
+
+
+codebook structure:
+
+five parts to codebook:
+
+1. code mnemonic
+2. brief definition
+3. full definition of inclusion criteria
+4. full definition of exclusion criteria to explain how the code differed from others
+5. example passages that illustrated how the code concept might appear in natural language
+
+
+6 components to a codebook:
+
+
+1. the code
+2. brief definition
+3. full definition
+4. guidelines for when to use the code
+5. guidelines for when not to use the code
+6. examples
+
+
+a relational database is well suited for both maintaining the structure and supporting the process
+
+
 
 # Week 4
+
+
+# line by line coding
+
+
+- when would it not be appropriate to use line by line coding?
+- the activity of sounding out is different from the analytic activity of coding
+- if you were doing line by line, one line might be one topic, other lines might be other lines, without a reliable structure of themes to frame the lines, it may be challenging to reveal inter rater reliable themes
+
+
+## some examples
+
+
+- qualitative comaparative analysis
+- "keys to the presidency"
+
+
+## Questions: how to know when to code the entire paragraph or just by line?
+
+
+- what are coding segments? coding unit of analysis?
+- structural coding; divided up by topic
+- at the interview level: did this code ever occur during this interview?
+
+
+## Question is interrater reliability is necessary for publication?
+
+
+- it depends on the field,
+- on the journal,
+- on your own standards for scholarly integrity
+- you do not need interrater reliability in an exploratory project
+- the assumption is that structure exists,
+- need interrater reliability assessment if quantifying data and comparison but requires semi structured data
+
+
+# Week 6
+
+# Week 5: models
+
+
+- typically people come to qual analysis is to create a model
+- any research can be phrased as a research question
+- exploratory model, what are the distinguishing characteristics of the question
+- Or confirmatory?
+- "how does this model play out"
+- but hypotheses, found only in confirmatory, is a model because ...
+- a research question is a model because it lays out relationship for a set of relationships
+- research question, hypotheses, model, description are all the same
+- the preceeding vary in stylization of phenomenon
+- to demystify, must think about theory building in this way
+- theorizing is a plebian activity, that every single person does, every person has a schema, a way of knowing how the world works
+- theorizing is not an elite activity
+
+
+# questions about models, research questions, hypotheses?
+
+
+## how questions ask about processual models; what's the process? need longitudinal data, research data over time?
+
+
+- must then plan on collecting longitudinal data
+- alternative to processual/causality, mus
+- if you're doing methods, then you must have a question
+- different methodological approaches have inherent assumptions
+- it is important to understand how to formulate a research questions
+- a research question is a model where every single word works
+- *in my example, of LTBC webinar research,*
+- look to take class, ethnographic field methods?
+- research design is like a puzzle, every piece must fit
+
+
+## data mining
+
+
+- is an exploratory activity
+- be explicit about what you are doing with data mining
+- but p value hacking the data to find a significant association should be avoided
+- preceeding, is data misconduct
+-
+
+
+## my project: ltbc webinars
+
+
+1. identifying themes
+2. building and applying codebooks
+3. describing themes
+4. making comparisons
+5. buildilng and testing models
+
+
+ASU ASB 500 Notes Week 7: 6 Oct 2020
+
+# traditions of analysis; inductive; schema
+
+
+- what are the reasons to compel NSF to invest in a study
+- 1. concept of phenomenon is not well known
+- difficult to take in explicitly inductive research and get grant funding
+- 2. not enough literature to build off of, inadequate literature backing
+- research question; as a model;
+- what is the research question for an inductive study
+- if i was doing inductive study what would the research study be
+- what is this experience about,
+- what is this phenomenon
+- and so it is not a compelling question, when in competition with other questions for funding
+- 3. questions are too poorly formed to be compelling
+- respond to critique by; make compelling argument about why this case may add to what is already known; hitting really hard on the idea that this has not been well explored
+- not common for professionals and intellectuals to question the values of the field
+- inadequate because of unequal access to theory formation; implications then for what is unknown,
+- weird argument; western educated industrial r democratic
+- Clancy, Kathryn B. H., and Jenny L. Davis. “Soylent Is People, and WEIRD Is White: Biological Anthropology, Whiteness, and the Limits of the WEIRD.” Annual Review of Anthropology, vol. 48, no. 1, Oct. 2019, pp. 169–86. DOI.org (Crossref), doi:10.1146/annurev-anthro-102218-011133.
+- quantitative analysis; factor analysis; data mining; semantic network analysis;
+- funded research has to do something important
+- come to inductive research, already informed by the literature; most important
+- Carlson, E. (2017). Anti-colonial methodologies and practices for settler colonial studies. Settler Colonial Studies, 7(4), 496-517.
+https://mra-mb.ca/wp-content/uploads/ElizCarlsonAnti-colonial-methodologies-and-practices-for-settler-colonial-studies1-copy.pdf
+
+
+- schema analysis understanding the models in their heads
+- 
