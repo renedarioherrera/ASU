@@ -1,51 +1,108 @@
 # Module 1: Introduction and Building Blocks
 
+
 1. [Introduction & Identifying themes](ASB500_Module_01_Week_01.md)
 2. [Describing themes](ASB500_Module_01_Week_02.md)
 3. [Building and Applying Codebooks](ASB500_Module_01_Week_03.md)
 4. [Making Comparisons](ASB500_Module_01_Week_04.md)
 5. [Building & Testing Models](ASB500_Module_01_Week_05.md)
-6. [Workshop on Application to real projects](ASB500_Module_01_Week_06.md)
+6. Workshop on Application to real projects
 
 
-# Module 2: 
+# Module 2: Inductive Code-Based Approaches
 
 
+1. [Schema Analysis](ASB500_Module_02_Week_07.md)
+2. [Grounded Theory](ASB500_Module_02_Week_08.md)
 
 
-
-# Week 6
-
+# Module 3: Deductive Code-Based Approaches
 
 
-
-ASU ASB 500 Notes Week 7: 6 Oct 2020
-
-# traditions of analysis; inductive; schema
+1. [Classical Content Analysis](ASB500_Module_03_Week_09.md)
+2. Workshop on Application to real projects
 
 
-- what are the reasons to compel NSF to invest in a study
-- 1. concept of phenomenon is not well known
-- difficult to take in explicitly inductive research and get grant funding
-- 2. not enough literature to build off of, inadequate literature backing
-- research question; as a model;
-- what is the research question for an inductive study
-- if i was doing inductive study what would the research study be
-- what is this experience about,
-- what is this phenomenon
-- and so it is not a compelling question, when in competition with other questions for funding
-- 3. questions are too poorly formed to be compelling
-- respond to critique by; make compelling argument about why this case may add to what is already known; hitting really hard on the idea that this has not been well explored
-- not common for professionals and intellectuals to question the values of the field
-- inadequate because of unequal access to theory formation; implications then for what is unknown,
-- weird argument; western educated industrial r democratic
-- Clancy, Kathryn B. H., and Jenny L. Davis. “Soylent Is People, and WEIRD Is White: Biological Anthropology, Whiteness, and the Limits of the WEIRD.” Annual Review of Anthropology, vol. 48, no. 1, Oct. 2019, pp. 169–86. DOI.org (Crossref), doi:10.1146/annurev-anthro-102218-011133.
-- quantitative analysis; factor analysis; data mining; semantic network analysis;
-- funded research has to do something important
-- come to inductive research, already informed by the literature; most important
-- Carlson, E. (2017). Anti-colonial methodologies and practices for settler colonial studies. Settler Colonial Studies, 7(4), 496-517.
-https://mra-mb.ca/wp-content/uploads/ElizCarlsonAnti-colonial-methodologies-and-practices-for-settler-colonial-studies1-copy.pdf
+# Module 4: Word-Based Analyses
 
 
-- schema analysis understanding the models in their heads
+1. Text
+2. Content dictionaries
+3. [Semantic Network Analysis](ASB500_Module_04_Week_13.md)
+
+
+# Live Class 20 October 2020
+
+
+- last week was grounded theory; and still need to review the videos
+- this week, classical content analysis;
+
+
+## classical content analysis
+
+
+- confirmatory
+- the most extreme of text analysis approach in terms of orthodox implementation
+- may be uncomfortable with people doing exploratory research
+- goals of deductive/confirmatory text analysis are to test hypotheses or strengthen already existing models
+- research must be within theory making space in already existing literature
+- have some sense about key concepts and
+- research question that posits relationship between concepts
+- testing hypotheses
+- asking question of comparison
+- suitable approach for comparison, testing hypotheses
+- understand terrain of exploratory and confirmatory; therefore you are able better understand which methods are most appropriate
+
+
+with content analysis:
+
+
+- suitable for cookie cutter approach; i.e. deductive coding
+- ..
+- with regard to transparency and scholarship it is important to share codes
+- coding segments -> coding itself -> ..
+
+
+segmentation:
+
+
+- with transcripts or textual data;
+- why do we need to segment data? word, sentence, paragraph
+- to segment is to delineate unit
+- yes, literature and theory can guide towards meaning,
+- how do different types of data need to be segmented
+- for example, segment focus group data by speaker; although problematic because may not be meaningful segmentation in context
+- online survey and text box? depends on the question
+- field notes? in time units,
+- unstructured interview? by sentence? justifiable to talk about concept at level of interview
+- line by line coding
+- in vivo
+
+
+grounded theory: does not support, structured valid and reliable comparisons within cross groups, instead supports ..
+
+
+for example, policy is heavily structured:
+
+
+codebook: maximum of up to 60 codes
+
+
+in content comparison, why important for interrelate reliability:
+
+
+- validation
+- establish reliability
+- do different people look at the codes and apply them in the same way
+- fidelity
+- coders must have similar understanding of the context, question, hypotheses, insider knowledge,
+
+
+thought experiment, direct comparisons between groups:
+
+
+- we are studying high income and low income, what is poverty?
+- high income says poverty is "low social status"
+- low income says poverty is "managing bureaucracy of poverty"
+- it's possible that you will find non-meaningful comparison because codes aren't well defined leading to a giant mess because neither group is talking about the same thing
 -
