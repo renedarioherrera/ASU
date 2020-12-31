@@ -1,5 +1,69 @@
 # Week 2: Describing Themes
 
+## Describing themes
+
+- ladder of analytical abstraction
+- Strategic decisions about what to describe
+
+|  | Range | Central tendency | distribution | details | context |
+| ------    | ----- | ----- | ----- | ----- | ---- |
+| themes |  |  |  |  |  |
+| cases |   |  |  |  |  |
+| groups |  |  |  |  |  |
+| cultures |   |  |  |  |  |
+
+### levels of description
+
+#### Themes
+
+- can develop directly from a good codebook
+- include general description, central tendency, range, core/periphery features
+
+##### characteristics of good descriptions
+
+| description | characteristics |
+| :-----  | :------- |
+| range | the breadth of meaning from one extreme to the other |
+| central tendency | average, modal, prototypical exemplars |
+| distribution | degree of variation around central point |
+| details | examples, verbatim quotes, nuances that vary across texts |
+| context | background information, relevant social, cultural, political, economic, or ecological details |
+
+#### cases
+
+- single event or phenomena
+- can be descriptive or used to understand bigger phenomenon
+
+#### groups
+
+- describe variance among a group of cases
+- similarities / differences, range, central tendency, distribution
+
+#### cultures
+
+- describe what people share
+- describe nuances, difference, idiosyncrasies
+
+### Presentation
+
+#### general and particular
+
+- universal statements
+- cross cultural assertions
+- general statements about society or cultural group
+- statements about particular cultural scene
+- statements about a class of events
+- specific statements at level of behavior or object
+
+#### core and periphery
+
+- range
+- central tendency
+- distribution
+- context
+
+
+
 
 ## Video Lecture
 

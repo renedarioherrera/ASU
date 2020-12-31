@@ -1,6 +1,125 @@
 # Week 3: Building and Applying Codebooks
 
 
+## Week 3: Building and Applying Codebooks 
+
+- codes: short hand notation for themes
+- codebooks: organized lists and defiitnions of themes
+- coding: act of linking themes to chunks of qualitative data
+
+### thematic codes
+
+- link themes with instances of data
+
+### structural
+
+- describe charactersitcs of data
+
+### memos
+
+- used to annotated text with runing thoughst of analyst
+
+### hyperlinks
+
+link one instance of data toa ntoher
+
+### Tagging
+
+- indicate where themes occur in possibly overlapping text
+- exploratory and unstructured
+
+### value coding
+
+- assign value to fixed non overlapping segments
+- nominal
+- ordinal
+- interval
+- confirmatory and structured
+
+### Codebook development
+
+- deductive, inductive, or both
+- usually organized hierarchiacally
+- can be defined as inclusive or exclusive
+- code with purpose/ beware of proliferation
+- keeping codebooks to a mangeable size helps accuracy and reliability
+- focus on data reduction;
+- every additional code added means more work
+- the larger the codebook the less accurately coders will be in marking texts
+
+### elements of a structured code book definition
+
+- mnemonic: short label
+- short and detailed description: conceptual defintions, dervied from theory or data
+- inclusion and exclusion criteria: features that are requried or prohibitied from a theme
+- typical and atypical examples: examples that are common or not but still count
+
+### Working with multiple coders
+
+- forces to clarifiy what a theme means
+- a structured codebook ensures consistency
+- writing codebook definitions involves conceptual work
+- forces reflection on how you know what you think you know
+- advantages to multiple coders
+
+### benefits
+
+- reliability: agreement indicates which codes are reliable instruments; different people apply  the codes in the same way
+- validity: trustworthiness; agreement indicates themes are not figments of imagination; emic validity can be enhances if participants are coders
+- construct definition: theme definition; differences among coders can help to clarify meaning and establish inclusion exclusion criteria
+- identifying core-periphery constructs: agremement among codres can help to identiy central tendency distribuiton of responses with theme; can also help to identify relationship among themes
+- identifying exemplary quotes: agreement among coders can help systematically identify passages of text that best identify
+
+### measuring intercoder reliability
+
+- percent agreement:
+- cohen's kappa: measure's agreement between coder's beyond chance. if two coders randomly guessed whether or not to assign a code to a particular chunk of text they would agree some of the time by sheer chance
+- krippendorf's alpha:
+
+#### cohen's kappa
+
+- kappa is a measure of agreement between two coders corrected for chance. it can also be interpreted as the agreement between pairs of individuals all of which are responding to the same scale
+- kappa must be calculated for each code
+- confidence intervals or standard errors should be reported
+- kappa is sensitive to frequency of codes
+- want to see .8 and above
+- if below, revise codebook
+
+| value | interpretation (but arbitrary) |
+| ----: | :---- |
+| < 0.0 | Poor |
+| 0.00 - 0.20 | Slight |
+| 0.21 - 0.40 | Fair |
+| 0.41 - 0.60 | Moderate |
+| 0.61 - 0.80 | Substantial |
+| 0.81 - 1.00 | Almost perfect |
+
+### refining the codebook
+
+- developing a reliable codebook is an iterative process and assessing intercoder reliability is an important way to identify problems with coder training or with the conceptual clarity of your codebook
+- coding is data reduction
+- build codebooks only for what you need
+- limit codes to what fits on a single page
+- 30-50 codes is about right
+- coding scheme may be hierarchical
+- no more than 3 in the early stageas
+- but not adviseable to go beyond 5 levels deep
+- how textsh should be segementd?
+- whether codes are exclusive?
+- which codes are hierarchical
+- when and how codes are to be applied to text
+- which codes are allowed to co-occur
+- which codes must be exclusive
+- which codes should be hierarchical
+
+#### general principles
+
+1. how to code
+2. who to code
+3. what to code
+4. where to code
+
+
 # check in
 
 

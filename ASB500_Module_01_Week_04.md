@@ -1,4 +1,99 @@
-# Week 4
+# Week 4: Making Comparisons
+
+
+## Matrices
+
+- profile matrix: attributes and cases; 2 mode matrices
+- proximity matrix: cases and cases; one mode matrix; similarities and differences between cases
+- distilling data into profile data display forces you to make full use of data
+- you know only what you can display
+
+### Lesson 4 Building blocks of analysis: making comparisons proximity matrices
+
+- a mileage chart is a proximity matrix
+- one mode matrix
+- similarity or distance matrix
+- rows and columns are the same
+- the cells show the distance between rows and columns
+- example variables, a correlation matrix
+- example cases, cells show similarity
+- example cases/interviews; how similar is narrative; most similar and least similar
+- spark ideas about why patterns exist
+
+### Lesson 4 Building blocks of analysis: making comparisons visualizations
+
+- multi dimensional scaling MDS
+- every profile matrix can produce two proximity matrix
+
+### Lesson 4 Building blocks of analysis: making comparisons units of analysis,
+
+- what things are we comparing? define unit of analysis
+- which attributes are we using to compare? univariate, bivariate, mulivariate
+- how will we measure similaritiesa nd differences? levels of measuresment
+
+#### units of analysis
+
+- who
+- what
+- often but not always the individual
+- whatever fits in the rows of profile matrix is unit of analysis
+- in focus group, the group is the unit of analysis
+
+#### which attributes
+
+- whole texts or attributes
+- columns in profile matrix are attributes
+- which attributes go with which cases
+- how many dimensions? univariate, bivariate, or multivariate
+
+### Lesson 4 Building blocks of analysis: making comparisons levels of measurement
+
+
+#### nonvariable
+
+- text
+
+#### variable
+
+#### nominal
+
+- exhaustive
+- exclusive
+
+#### ordinal
+
+- exhaustive
+- exclusive
+- rank ordered
+
+#### interval / ratio
+
+- exhaustive
+- exclusive
+- rank ordered
+- meaningful distance between values
+
+## Lesson 4 Building blocks of analysis: making comparisons levels of aggregation
+
+### pairwise
+
+- systematically compare each unit to every other
+- constant comparison
+- technique to identify themes
+
+### within group
+
+- patterns within group
+
+### cross group
+
+- patterns between groups
+
+| Levels of aggregation | Univariate | Bivariate | Multivariate |
+| ------------------------ | ----------  | ---------  | ------------- |
+| pairwise | I | IV | VII |
+| within group | II | V | VIII |
+| cross group | III | VI | IX | 
 
 
 # line by line coding

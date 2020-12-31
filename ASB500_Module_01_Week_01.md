@@ -1,5 +1,80 @@
 # Week 1 Introduction and Identifying Themes
 
+
+### Lesson 1: Identifying themes
+
+- A theme is an underlying dimension of meaning.
+- Ask, "what is this an example of?"
+- Inductive: open coding; in vivo; exploratory; unstructured
+- deductive: a priori; structural; confirmatory; structured
+
+#### Techniques to identify themes
+
+##### Observational
+
+###### Word repetition
+
+- which words or concepts
+- how are the repeated?
+
+###### Cultural insider / indigenous
+
+- must be a cultural insider to fully understand the complete context
+
+###### metaphor and analogy
+
+- hidden meaning that tell about cultural assumptions
+
+###### Transitions
+
+- naturally occurring shifts
+- paragraphs, sentences,
+- transition phrases
+
+###### Similarities and differences
+
+- what is shared
+- what is different
+- how do they suggest themes
+
+###### linguistic connectors
+
+- things that indicate a connecting schema or logic
+
+###### missing data
+
+- information obvious to cultural insider
+- highly stigmatized or secret
+
+###### Theory related material
+
+- preconceived notion based on understanding of the literature and experience
+
+##### Processing
+
+- some sort of processing of the data
+
+###### cutting and sorting
+
+- cut up key quotes, phrases, and sort them into themes
+- excellent for multidisciplinary work
+
+###### key word in context
+
+- use text analytic software to pull out word frequency and rank
+- how are the most frequent words used in context
+
+###### word co-occurrence
+
+- how often words are used together
+- identify clusters
+
+###### meta coding
+
+- themes that cut across themes
+- capture unique local dimension of meaning
+
+
 ## Introduction
 
 - qual data / qual analysis
