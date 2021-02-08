@@ -159,3 +159,8 @@
 3. describing themes
 4. making comparisons
 5. buildilng and testing models
+
+
+## Chapter 8
+
+- NA 

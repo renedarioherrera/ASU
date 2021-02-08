@@ -93,7 +93,7 @@
 | ------------------------ | ----------  | ---------  | ------------- |
 | pairwise | I | IV | VII |
 | within group | II | V | VIII |
-| cross group | III | VI | IX | 
+| cross group | III | VI | IX |
 
 
 # line by line coding
@@ -128,3 +128,12 @@
 - you do not need interrater reliability in an exploratory project
 - the assumption is that structure exists,
 - need interrater reliability assessment if quantifying data and comparison but requires semi structured data
+
+
+## Bernard, Wutich, Ryan (2016) Chapter 7
+
+- NA
+
+## Bernard, Wutich, Ryan (2016) Chapter 9
+
+- NA 
